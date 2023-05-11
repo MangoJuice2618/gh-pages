@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "coffee",
+    "description": "",
+    "home_page_url": "https://mangojuice2618.github.io/gh-pages",
+    "feed_url": "https://mangojuice2618.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "espresso"
+    },
+    "items": [
+        {
+            "id": "https://mangojuice2618.github.io/gh-pages/features-that-help-businesses-bring-ideas-to-life.html",
+            "url": "https://mangojuice2618.github.io/gh-pages/features-that-help-businesses-bring-ideas-to-life.html",
+            "title": "Features that help businesses bring ideas to life",
+            "summary": "Google Web Designer gives you the power to create beautiful and compelling videos, images, and HTML5 ads. Use animation and interactive elements to build out your creative vision, then scale your content for different sizes or audiences with responsive and dynamic workflows.",
+            "content_html": "<h1 class=\"h-c-headline h-c-headline--two h-has-bottom-margin h-u-text-center gwd-txt-head\"> </h1>\n<p class=\"h-c-copy gwd-txt-intro h-u-text-center gwd-txt-featintro\">Google Web Designer gives you the power to create beautiful and compelling videos, images, and HTML5 ads. Use animation and interactive elements to build out your creative vision, then scale your content for different sizes or audiences with responsive and dynamic workflows.</p>",
+            "author": {
+                "name": "espresso"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-11T15:08:39+08:00",
+            "date_modified": "2023-05-11T15:08:39+08:00"
+        }
+    ]
+}
