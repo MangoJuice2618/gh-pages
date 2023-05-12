@@ -3,12 +3,53 @@
     <title>coffee</title>
     <link href="https://mangojuice2618.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://mangojuice2618.github.io/gh-pages" />
-    <updated>2023-05-11T16:09:25+08:00</updated>
+    <updated>2023-05-12T10:20:44+08:00</updated>
     <author>
         <name>espresso</name>
     </author>
     <id>https://mangojuice2618.github.io/gh-pages</id>
 
+    <entry>
+        <title>asd</title>
+        <author>
+            <name>espresso</name>
+        </author>
+        <link href="https://mangojuice2618.github.io/gh-pages/asd.html"/>
+        <id>https://mangojuice2618.github.io/gh-pages/asd.html</id>
+
+        <updated>2023-05-12T10:20:44+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Calculate
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<h1>Calculator</h1>
+<p><input id="number1" type="text"></p>
+<select id="operator">
+<option value="+">+</option>
+<option value="-">-</option>
+<option value="*">*</option>
+<option value="/">/</option>
+</select>
+<p><input id="number2" type="text"> <button>Calculate</button></p>
+<div id="result"></div>
+<p>
+<script>
+		function calculate() {
+			const number1 = document.getElementById("number1").value;
+			const operator = document.getElementById("operator").value;
+			const number2 = document.getElementById("number2").value;
+			const result = eval(`${number1} ${operator} ${number2}`);
+			document.getElementById("result").innerHTML = result;
+		}
+	</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Calculator</title>
         <author>
