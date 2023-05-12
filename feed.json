@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://mangojuice2618.github.io/gh-pages/calculator.html",
+            "url": "https://mangojuice2618.github.io/gh-pages/calculator.html",
+            "title": "Calculator",
+            "content_html": "<table class=\"calculator\">\n<tbody>\n<tr>\n<td colspan=\"3\"><input id=\"result\" class=\"display-box\" disabled=\"disabled\" type=\"text\"></td>\n<!-- clearScreen() function clears all the values -->\n<td><input id=\"btn\" type=\"button\" value=\"C\"></td>\n</tr>\n<tr><!-- display() function displays the value of clicked button -->\n<td><input type=\"button\" value=\"1\"></td>\n<td><input type=\"button\" value=\"2\"></td>\n<td><input type=\"button\" value=\"3\"></td>\n<td><input type=\"button\" value=\"/\"></td>\n</tr>\n<tr>\n<td><input type=\"button\" value=\"4\"></td>\n<td><input type=\"button\" value=\"5\"></td>\n<td><input type=\"button\" value=\"6\"></td>\n<td><input type=\"button\" value=\"-\"></td>\n</tr>\n<tr>\n<td><input type=\"button\" value=\"7\"></td>\n<td><input type=\"button\" value=\"8\"></td>\n<td><input type=\"button\" value=\"9\"></td>\n<td><input type=\"button\" value=\"+\"></td>\n</tr>\n<tr>\n<td><input type=\"button\" value=\".\"></td>\n<td><input type=\"button\" value=\"0\"></td>\n<!-- calculate() function evaluates the mathematical expression -->\n<td><input id=\"btn\" type=\"button\" value=\"=\"></td>\n<td><input type=\"button\" value=\"*\"></td>\n</tr>\n</tbody>\n</table>\n<p> \n<script src=\"../../media/files/script.js\"></script>\n</p>",
+            "author": {
+                "name": "espresso"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-11T15:39:58+08:00",
+            "date_modified": "2023-05-11T16:09:25+08:00"
+        },
+        {
             "id": "https://mangojuice2618.github.io/gh-pages/features-that-help-businesses-bring-ideas-to-life.html",
             "url": "https://mangojuice2618.github.io/gh-pages/features-that-help-businesses-bring-ideas-to-life.html",
             "title": "Features that help businesses bring ideas to life",
